@@ -1,6 +1,6 @@
 {
   "name": "ci-config",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Common config service used between different cityindex applications.",
   "main": "src/config.service.js",
   "authors": [
