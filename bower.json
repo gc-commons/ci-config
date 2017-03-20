@@ -19,7 +19,7 @@
     "angular-mocks": "~1.2.28",
     "angular-ui-router": "~0.2.15",
     "lodash": "~3.10.0",
-    "ci-utils": "https://github.com/pablonp/ci-utils.git",
-    "ci-params": "https://github.com/pablonp/ci-params.git"
+    "ci-utils": "https://github.com/gc-commons/ci-utils.git",
+    "ci-params": "https://github.com/gc-commons/ci-params.git"
   }
 }
